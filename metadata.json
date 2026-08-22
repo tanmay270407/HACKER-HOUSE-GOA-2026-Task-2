@@ -1,0 +1,7 @@
+{
+  "name": "Hacker House Goa — Voice RAG System",
+  "description": "Voice-enabled RAG system for MSMARCO-XI, built for Hacker House Goa 2026",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
